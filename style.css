@@ -1,0 +1,7 @@
+body,html{background-color: #faf9f6}
+
+.gap-bloco {
+    display: flex;
+    gap: 10px;
+}
+   
